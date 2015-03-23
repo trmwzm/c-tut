@@ -1,0 +1,3 @@
+[submodule "k-and-r-solutions"]
+	path = k-and-r-solutions
+	url = git@github.com:purzelrakete/k-and-r-solutions.git
